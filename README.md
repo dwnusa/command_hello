@@ -1,2 +1,2 @@
-remote repository of git_tutorial\n
+remote repository of git_tutorial
 this is hotfix
